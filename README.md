@@ -27,7 +27,14 @@ Ví dụ: tọa độ GPS 10.8256985,106.6782971 cho ra VN26: 1501.3806   một 
 
 Với con số 10.40420673,104.6479163 quá đáng sợ đúng không. Nhưng 1216.6583 rõ ràng rất dễ nhớ và chia sẻ
 
+https://docs.google.com/spreadsheets/d/1nficfQglkXTz01KG5Z_Jst5nJpt_YHUn7Gd_c3OArsU/edit?usp=sharing
+______________
 
+Github: GitHub - ng-huy/vn26-geocode (https://github.com/ng-huy/vn26-geocode)
+
+Liên hệ: Liên hệ (https://vnappscom.blogspot.com/p/lien-he.html)
+
+HCM 11/02/2026
 ​
 
 
